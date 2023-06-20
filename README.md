@@ -14,4 +14,5 @@ Contains the template for creating the manuscript for the capstone project.
 | Heading 1                  | 2         | -0.04"  |
 | Heading 2 (Chapter Title)  | 3         | 0.15"   |
 | Heading 2                  | 4         | 0.15"   |
-| Heading 3                  | 5         | 0.31"   |
+| Heading 2 (Appendix)       | 5         | 0.5"    |
+| Heading 3                  | 6         | 0.31"   |
