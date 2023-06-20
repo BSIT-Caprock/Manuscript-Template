@@ -2,6 +2,10 @@
 
 Contains the template for creating the manuscript for the capstone project.
 
+## Downloads
+
+- [Template](https://github.com/BSIT-Caprock/Manuscript-Template/raw/main/Template.dotx)
+
 ## TOC Mappings
 
 | Style                      | TOC Level | Indent  |
